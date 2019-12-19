@@ -1,6 +1,6 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/Debaq/FullAxis/master/Images/logo.png" alt="Fullaxis" width="256"/>
-<p><strong>&nbsp;FullAxis<br/></strong></p>
+<img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/logo.png" alt="Nengn" width="256"/>
+<p><strong>&nbsp;Nengn<br/></strong></p>
 
 <br/>
 </h1>
@@ -9,13 +9,13 @@
 
 [![Universidad Austral PM](https://img.shields.io/badge/UACH-PM-green.svg)](http://www.pmontt.uach.cl/)
 [![TecMed](https://img.shields.io/badge/TM-PM-critical.svg)](http://tmedicapm.uach.cl/)
-[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=flat&logo=twitter)](https://twitter.com/intent/tweet?hashtags=imagesharp,dotnet,oss&text=Fullaxis.Un+simulador+de+potenciales+evocados+auditivos+de+tronco+cerebral+en+Python+https://github.com/debaq/Fullaxis+#Fullaxis+#simulador+#UACH+#TM-PM)
+[![Twitter](https://img.shields.io/twitter/url/http/shields.io.svg?style=flat&logo=twitter)](https://twitter.com/intent/tweet?hashtags=imagesharp,dotnet,oss&text=Nengn.Un+sistema+de+evaluación+del+control+postural+https://github.com/stereocilio/Nengn+#Nengn+#ControlPostural+#UACH+#TM-PM)
 [![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE.md)
 
 </div>
 
 
-### FullAxis, Sistema de evaluación del control postural.
+### Nengn, Sistema de evaluación del control postural.
 
 
 
@@ -48,8 +48,8 @@ csv
 ### Paquetes de instalación
 |           |Paquete|Código|
 |-----------|-------|------|
-|**Linux**  |[![Build Status](https://img.shields.io/badge/build-faling-critical.svg)](https://github.com/Debaq/Fullaxis)|[![Build Status](https://img.shields.io/badge/code-10-green.svg)](https://github.com/Debaq/Fullaxis)|
-|**windows**|[![Build Status](https://img.shields.io/badge/build-faling-critical.svg)](https://github.com/Debaq/Fullaxis)|[![Build Status](https://img.shields.io/badge/code-0-red.svg)](https://github.com/Debaq/Fullaxis)|
+|**Linux**  |[![Build Status](https://img.shields.io/badge/build-faling-critical.svg)](https://github.com/stereocilio/Nengn)|[![Build Status](https://img.shields.io/badge/code-10-green.svg)](https://github.com/stereocilio/Nengn)|
+|**windows**|[![Build Status](https://img.shields.io/badge/build-faling-critical.svg)](https://github.com/stereocilio/Nengn)|[![Build Status](https://img.shields.io/badge/code-0-red.svg)](https://github.com/stereocilio/Nengn)|
 
 
 ### Construido con 🛠️
@@ -70,13 +70,13 @@ _Este proyecto se ha desarrollado con las siguientes herramenientas_
 <table>
 	<tbody>
 		<tr>
-			<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Ávila.jpg" alt="Davila" width="100" height="100" /></td>		
+			<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Ávila.jpg" alt="Davila" width="100" height="100" /></td>		
 			<td style="width: 263px;">
 			David Ávila Quezada
 			<p>
-			<a href="david.avila@uach.cl"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
-			<a href="http://tmedicapm.uach.cl/docentes/david-%C3%A1vila-quezada"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/TMPM.png"  width="20" height="20" ></a>
-			<a href="http://www.linkedin.com/in/david-avila-quezada-9a577113a"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/Linkedin.png"  width="20" height="20" ></a>
+			<a href="david.avila@uach.cl"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
+			<a href="http://tmedicapm.uach.cl/docentes/david-%C3%A1vila-quezada"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/TMPM.png"  width="20" height="20" ></a>
+			<a href="http://www.linkedin.com/in/david-avila-quezada-9a577113a"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/Linkedin.png"  width="20" height="20" ></a>
 			</p>
 			</td>
 		</tr>
@@ -86,26 +86,26 @@ _Este proyecto se ha desarrollado con las siguientes herramenientas_
 <h3>Investigadores Asociados:</h3>
 
 
-<h3># <a href="https://github.com/Debaq/Fullaxis/tree/master/Craneocorporografia">Craneocorporografía</a></h3>
+<h3># <a href="https://github.com/stereocilio/Nengn/tree/master/Craneocorporografia">Craneocorporografía</a></h3>
 
 <h4>2018</h4>
 <table>
 	<tbody>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Gallo.jpeg" alt="Gallo" width="100" height="100" /></td>	
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Gallo.jpeg" alt="Gallo" width="100" height="100" /></td>	
 		<td style="width: 263px;">
 Enrique Gallo Barraza 
 		<p>
-		<a href="mailto:enriquegallo.b@gmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="mailto:enriquegallo.b@gmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</p>
 	</td>
 </tr>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Mancilla.jpeg" alt="Mancilla" width="100" height="100" /></td>
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Mancilla.jpeg" alt="Mancilla" width="100" height="100" /></td>
 			<td style="width: 263px;">
 Elvis Eduardo Mancilla Goldschmidt 
 		<P>
-		<a href="mailto:mancilla_e@hotmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="mailto:mancilla_e@hotmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</P>
 	</td>
 	</tr>
@@ -113,25 +113,25 @@ Elvis Eduardo Mancilla Goldschmidt
 	</tbody>
 </table>
 
-<h3># <a href="https://github.com/Debaq/Fullaxis/tree/master/dTug">dTug</a></h3>
+<h3># <a href="https://github.com/stereocilio/Nengn/tree/master/dTug">dTug</a></h3>
 <h4>2018</h4>
 <table>
 	<tbody>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Ruchichi.jpg" alt="Ruchichi" width="100" height="100" /></td>	
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Ruchichi.jpg" alt="Ruchichi" width="100" height="100" /></td>	
 		<td style="width: 263px;">
 		Nicolás Ruchichi 
 		<p>
-		<a href="mailto:nico.ruchichi@gmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="mailto:nico.ruchichi@gmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</p>
 	</td>
 </tr>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Villarroel.png" alt="Villarroel" width="100" height="100" /></td>
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Villarroel.png" alt="Villarroel" width="100" height="100" /></td>
 			<td style="width: 263px;">
 		 Daniela Villarroel Vera 
 		<P>
-		<a href="mailto:da.alejandra@hotmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="mailto:da.alejandra@hotmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</P>
 	</td>
 	</tr>
@@ -143,20 +143,20 @@ Elvis Eduardo Mancilla Goldschmidt
 <table>
 	<tbody>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Soto.jpg" alt="Soto" width="100" height="100" /></td>	
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Soto.jpg" alt="Soto" width="100" height="100" /></td>	
 		<td style="width: 263px;">
 Julio Cesar  Soto González 
 		<p>
-		<a href="mailto:julcsg.7@gmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="mailto:julcsg.7@gmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</p>
 	</td>
 </tr>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Mardones.jpg" alt="Mardones" width="100" height="100" /></td>
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Mardones.jpg" alt="Mardones" width="100" height="100" /></td>
 			<td style="width: 263px;">
 		Jorge Omar Mardones Meléndez
 		<P>
-		<a href="jorgemardones.9@gmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="jorgemardones.9@gmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</P>
 	</td>
 	</tr>
@@ -166,25 +166,25 @@ Julio Cesar  Soto González
 
 
 
-<h3># <a href="https://github.com/Debaq/Fullaxis/tree/master/CP_Marcha">Descripción del registro de la marcha</a></h3>
+<h3># <a href="https://github.com/stereocilio/Nengn/tree/master/CP_Marcha">Descripción del registro de la marcha</a></h3>
 <h4>2019</h4>
 <table>
 	<tbody>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Latorre.jpg" alt="Latorre" width="100" height="100" /></td>	
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Latorre.jpg" alt="Latorre" width="100" height="100" /></td>	
 		<td style="width: 263px;">
 		María Paz Latorre Gonzalez
 		<p>
-		<a href="mailto:Marialatorre.1f@gmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="mailto:Marialatorre.1f@gmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</p>
 	</td>
 </tr>
 		<tr>
-		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/Autores/Inarejo.jpg" alt="Inarejo" width="100" height="100" /></td>
+		<td style="width: 263px; border: 10px solid black;"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/Autores/Inarejo.jpg" alt="Inarejo" width="100" height="100" /></td>
 			<td style="width: 263px;">
 			Ignacia Inarejo Inarejo
 		<P>
-		<a href="ignaciainarejoinarejo@gmail.com"><img src="https://raw.githubusercontent.com/Debaq/Fullaxis/master/Images/externos/mail.png"  width="20" height="20" ></a>
+		<a href="ignaciainarejoinarejo@gmail.com"><img src="https://raw.githubusercontent.com/stereocilio/Nengn/master/Images/externos/mail.png"  width="20" height="20" ></a>
 		</P>
 	</td>
 	</tr>
